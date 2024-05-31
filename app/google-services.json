@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478528415057",
+    "project_id": "textrecognitionspelling",
+    "storage_bucket": "textrecognitionspelling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478528415057:android:164a588b0612350e871f70",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionspelling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQF9aG5P-Ogi4hkJfyfNwYg3XIHP26Nmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
